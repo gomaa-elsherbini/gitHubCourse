@@ -1,0 +1,42 @@
+
+starting steps 
+
+- creating a new repo
+
+- open the workig directory with the terminal:
+
+- clone this repo to local repo with the same name:
+
+- in the main directory:
+
+    * git clone https://github.com/gomaa-elsherbini/gitHubCourse.git
+
+- creating new folders to the working directory with the commands:
+
+    * mkdir css js 
+
+- in css directory creating:
+
+    * touch main.css 
+
+- in js directory creating:
+
+    * touch main.js 
+
+- in the terminal 
+
+- check the git status:
+    * git status 
+
+- adding those changes to the staging area:
+
+    * git add <file-name> or git add * (to add all files)
+
+- to remove files from the staging area:
+
+    * git reset head <file-name>
+
+- commit the changes to the local repo:
+
+    * git commit 
+
